@@ -28,6 +28,7 @@ help () {
   echo
 }
 
+
 # handle opts
 opt_config_file=
 opt_metrics=
